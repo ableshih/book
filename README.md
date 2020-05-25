@@ -1,5 +1,23 @@
 # book
 
+Flag’s 創客‧自造者工作坊 Python 感測器大應用：智慧生活X雲端  
+https://www.books.com.tw/products/0010851444  
+
+PyTorch深度學習與自然語言中文處理  
+https://www.books.com.tw/products/0010807533  
+
+Python邁向領航者之路  
+https://www.books.com.tw/products/0010856752  
+
+輕課程 從CNC走入文創生活-使用Bravoprodigy雕銑機  
+https://www.books.com.tw/products/0010803912  
+
+大數據資料可視化：Python QT GUI程式設計  
+https://www.books.com.tw/products/0010848799  
+
+Python GUI設計活用tkinter之路(第三版)：王者歸來  
+https://www.books.com.tw/products/0010848156  
+
 Linux Shell程式設計實力養成：225個實務關鍵技巧徹底詳解  
 https://www.books.com.tw/products/0010719755?sloc=main
 
