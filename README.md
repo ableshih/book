@@ -5,18 +5,22 @@ https://www.books.com.tw/products/0010851444
 
 PyTorch深度學習與自然語言中文處理  
 https://www.books.com.tw/products/0010807533  
+http://www.drmaster.com.tw/download/example/MP11810_Example.zip  
 
-Python邁向領航者之路  
+Python邁向領航者之路：超零基礎  
 https://www.books.com.tw/products/0010856752  
+https://deepmind.com.tw/home/wp-content/uploads/2020/05/Python%E9%82%81%E5%90%91%E9%A0%98%E8%88%AA%E8%80%85%E4%B9%8B%E8%B7%AF%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BE%8B%E5%92%8C%E6%98%AF%E9%9D%9E%E9%81%B8%E6%93%87%E9%A1%8C%E8%B3%87%E6%96%99.zip  
 
 輕課程 從CNC走入文創生活-使用Bravoprodigy雕銑機  
 https://www.books.com.tw/products/0010803912  
 
 大數據資料可視化：Python QT GUI程式設計  
 https://www.books.com.tw/products/0010848799  
+https://deepmind.com.tw/home/wp-content/uploads/2020/02/DM2006%20%E7%B9%81%E4%B8%AD%E7%A8%8B%E5%BC%8F%E7%A2%BC.zip  
 
 Python GUI設計活用tkinter之路(第三版)：王者歸來  
 https://www.books.com.tw/products/0010848156  
+https://deepmind.com.tw/home/wp-content/uploads/2020/02/Python%20GUI%E8%A8%AD%E8%A8%88%E6%B4%BB%E7%94%A8tkinter%E4%B9%8B%E8%B7%AF%E7%8E%8B%E8%80%85%E6%AD%B8%E4%BE%86%E7%AC%AC%E4%B8%89%E7%89%88.zip  
 
 Linux Shell程式設計實力養成：225個實務關鍵技巧徹底詳解  
 https://www.books.com.tw/products/0010719755?sloc=main
